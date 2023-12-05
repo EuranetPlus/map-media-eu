@@ -1,6 +1,6 @@
 country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url
 Albania,AL,null,Falsch,,,,,,,,,
-Austria,AT,43,Falsch,"Medium Score = 50%
+Austria,AT,0.43,Falsch,"Medium Score = 50%
 Low Score = 22%",,,,,,,,
 Belgium,BE,47,Falsch,"Medium Score = 44%
 Low Score = 26%",,,,,,,,
